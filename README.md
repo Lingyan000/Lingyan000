@@ -41,7 +41,7 @@
 <td valign="top" width="100%">
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 每周工作报告</a>
+#### <a href="https://gist.github.com/4dfebcc8035fe01b597ee30249f9b044" target="_blank">📊 每周工作报告</a>
 ```text
 Vue.js     🕓 15h   ███████████████░░░░░░░░░░░░░ 53.9%
 JavaScript 🕓 5h31m █████▌░░░░░░░░░░░░░░░░░░░░░░ 19.9%
