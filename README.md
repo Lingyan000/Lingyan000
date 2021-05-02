@@ -43,7 +43,8 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/7a8c278378e3f0cb8fa4561ca8005b96" target="_blank">📊 每周工作报告</a>
 ```text
-JavaScript 🕓 3h27m ████████████████████████████100.0%
+JavaScript 🕓 4h33m ███████████████████████████▉ 99.9%
+TypeScript 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.1%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
